@@ -1,0 +1,48 @@
+{
+  "categorias": [
+    {
+      "id": "bem-estar",
+      "nome": "Racismo-Online",
+      "subcategorias": ["Internet", "Esporte"]
+    },
+    {
+      "id": "comportamento",
+      "nome": "Racismo-Na-Sociedade",
+      "subcategorias": ["Estrutural", "Escolar"]
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Racismo na Internet",
+      "metadescription": "A internet tem servido de palco para o ódio...",
+      "body": "A internet tem servido de palco para o ódio às diferenças. As manifestações de racismo e injúria racial nas redes sociais escancaram a realidade preconceituosa que ainda existe no Brasil, alimentadas pela ideia de que a internet seria um território sem lei,porém não funciona bem assim No caso da atriz Taís Araújo, houve uma resposta rápida da Justiça, com a detenção dos acusados. Mas, a despeito das mobilizações recentes do Ministério Público e da Polícia Civil para não deixar esses casos impunes, o sistema não tem respondido com a mesma agilidade para todo o conjunto da sociedade. Muitas vítimas, descrentes na eficácia da Justiça para esse tipo de crime ou mesmo por desconhecer as vias judiciárias, não se dão ao trabalho de prestar queixa na delegacia,o que só agrava o problema. Como evitar o preconceito na internet? A melhor forma de prevenir a influência da intolerância e suas manifestações a violência, a discriminação e o preconceito entre crianças e adolescente é esclarecê-los sobre os efeitos nocivos dessas formas de pensar e agir, e, principalmente, educá-los para uma atitude de paz e tolerância.",
+      "categoria": "bem-estar",
+      "subcategoria": "Internet"
+    },
+    {
+      "id": 2,
+      "title": "Racismo dentro Esporte",
+      "metadescription": "Ultimamente os casos de racismo vem aumentando...",
+      "body": "Ultimamente os casos de racismo vem aumentando cada vez mais, sendo assim não seria diferente nos esporte que esta tendo um grande aumento sobre racismo nos esportes, o racismo é cometido por ações, torcidas ou verbalmente no meio de campo.",
+      "categoria": "bem-estar",
+      "subcategoria": "Esporte"
+    },
+    {
+      "id": 3,
+      "title": "Racismo Nas Escolas",
+      "metadescription": "Desde 1995, o CEERT atua na área da educação...",
+      "body": "Desde 1995, o CEERT atua na área da educação com programas de pesquisa e de promoção da igualdade racial. Essa longa trajetória consolidou a base teórico-metodológica para as iniciativas de educação para as relações étnico-raciais apoiadas por parceiros e implementadas nas redes públicas de ensino na perspectiva da adoção da promoção da igualdade como conteúdo permanente dos currículos e das atividades escolares. Em 2021 contribuímos com o avanço do debate sobre o combate ao racismo na infância por meio de levantamento de estudos acadêmicos, formação a distância com 4 mil professores inscritos de todo o Brasil, criação de instrumento jurídico para o cumprimento da legislação e a realização de Seminário Internacional Racismo e Infância: impactos, desafios e perspectivas foram ações que caracterizaram o projeto Construindo a equidade na Educação Infantil no Brasil. Ao longo das 7 edições entre 2002 e 2016, a premiação bianual constituiu um acervo de cerca de 3.000 práticas escolares desenvolvidas em todos os estados e o distrito federal, cobrindo todas as regiões do país.",
+      "categoria": "comportamento",
+      "subcategoria": "Escolar"
+    },
+    {
+      "id": 4,
+      "title": "Racismo Estrutural",
+      "metadescription": "Está enraizado na estrutura social e orienta...",
+      "body": "Está enraizado na estrutura social e orienta as relações institucionais, econômicas, culturais e políticas. No Brasil, em relação aos negros, o racismo estrutural se perpetua desde o tempo da escravidão, no início do século XVI.",
+      "categoria": "comportamento",
+      "subcategoria": "Estrutural"
+    }
+  ]
+}
